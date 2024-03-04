@@ -1,0 +1,15 @@
+.container{
+    background: linear-gradient(90deg,black,silver);
+    text-align: center;
+    margin-top: 10%;
+    padding: 25px;
+}
+
+.head{
+    background-color: black;
+    color:white
+}
+
+#col{
+    padding:5px
+}
